@@ -25,17 +25,6 @@ SiteTime Tracker is a lightweight Chrome extension that tracks the time you spen
 2. View the time spent on different websites.
 3. Click the "Clear Data" button to reset the logs.
 
-## File Structure
-
-```
-├── manifest.json   # Chrome extension manifest file
-├── background.js   # Tracks active tabs and logs time spent on websites
-├── popup.html      # Popup UI
-├── popup.js        # Handles popup interactions
-├── styles.css      # Popup styling
-├── icon.png        # Extension icon
-```
-
 ## Permissions
 
 - `tabs`: Required to track active tab changes.
