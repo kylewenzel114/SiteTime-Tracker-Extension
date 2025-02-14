@@ -34,3 +34,5 @@ SiteTime Tracker is a lightweight Chrome extension that tracks the time you spen
 
 This project is licensed under the MIT License.
 
+# Preview
+![Alt Text](https://s7.ezgif.com/tmp/ezgif-7e8d5fbc355744.gif)
